@@ -1,4 +1,4 @@
-### Hi there 👋    - 🌱 I’m currently learning Python programming at HyperionDev Boot Camp
+### Hi there 👋    - 🌱 I’m currently studying Software Engineering atThis is a <span style="color:blue">blue</span> word. HyperionDev Boot Camp
 <div style="position: relative;">
   <img src="https://github.com/stevehud23/stevehud23/blob/main/portfolio1.png " alt="Shows an illustrated python snake." style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
